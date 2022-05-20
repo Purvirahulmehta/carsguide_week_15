@@ -1,0 +1,46 @@
+2022-05-20 14:05:438 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:928 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (3f1a93bbf41ceb3e00f61d24dd4360c0)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 14:05:355 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:438 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (71cc3777a24f35e226ab028ddcd6bf07)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 14:05:932 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:687 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (8b1ae0b1a705b2288c3eac7afb7d55b0)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 14:05:554 INFO  HomePage :33 - Click on Search Cars Tab: [[ChromeDriver: chrome on WINDOWS (8b1ae0b1a705b2288c3eac7afb7d55b0)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 14:05:681 INFO  NewAndUsedCarSearchPage :37 - Getting New & Used Car Search: [[ChromeDriver: chrome on WINDOWS (8b1ae0b1a705b2288c3eac7afb7d55b0)] -> xpath: //div[@class='heading main-heading item-ad-wrapper ']/h1]
+2022-05-20 14:05:869 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:587 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (479b7bfbccb0018d6d99dc8262481713)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 14:05:275 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (479b7bfbccb0018d6d99dc8262481713)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 14:05:914 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 14:05:819 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (9cd344b3cb1066746f6c493132846f89)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:718 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (9cd344b3cb1066746f6c493132846f89)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:432 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:401 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (e9e93991caee16c2c00fc39e1d3727a2)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:687 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (e9e93991caee16c2c00fc39e1d3727a2)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:400 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:230 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (0844482d929ea888cfcefd6006b2d979)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:518 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (0844482d929ea888cfcefd6006b2d979)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:35 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:884 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (1abf84458a9e537694662e7c4f768a30)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:223 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (1abf84458a9e537694662e7c4f768a30)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:313 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:532 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (3e3ade7b91e83ff7b180fddb032595d4)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:284 INFO  HomePage :37 - Click on Used Cars Tab: [[ChromeDriver: chrome on WINDOWS (3e3ade7b91e83ff7b180fddb032595d4)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:959 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 15:05:945 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[ChromeDriver: chrome on WINDOWS (134c14a800463e9b7e5f2dbcd3a66205)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:29 INFO  HomePage :33 - Click on Search Cars Tab: [[ChromeDriver: chrome on WINDOWS (134c14a800463e9b7e5f2dbcd3a66205)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 15:05:190 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:351 INFO  HomePage :33 - Click on Search Cars Tab: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-20 15:05:643 INFO  NewAndUsedCarSearchPage :37 - Getting New & Used Car Search: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //div[@class='heading main-heading item-ad-wrapper ']/h1]
+2022-05-20 15:05:145 INFO  NewAndUsedCarSearchPage :42 - Click on Make: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //select[@id='makes']]
+2022-05-20 15:05:432 INFO  NewAndUsedCarSearchPage :46 - Click on Model: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //select[@id='models']]
+2022-05-20 15:05:906 INFO  NewAndUsedCarSearchPage :50 - Click on location: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //select[@id='locations']]
+2022-05-20 15:05:198 INFO  NewAndUsedCarSearchPage :55 - Click on price: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //select[@id='priceTo']]
+2022-05-20 15:05:636 INFO  NewAndUsedCarSearchPage :60 - Click on Find My Next Car Tab: [[FirefoxDriver: firefox on WINDOWS (2d688b5f-dce4-479a-816d-a9895682e1f0)] -> xpath: //input[@id='search-submit']]
+2022-05-20 15:05:226 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (3176c4aa-c1a7-4c3d-911c-2c8212ddfefe)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:951 INFO  HomePage :37 - Click on Used Cars Tab: [[FirefoxDriver: firefox on WINDOWS (3176c4aa-c1a7-4c3d-911c-2c8212ddfefe)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:440 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (506573d0-2ded-4013-87ea-02efcfb9af6f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:599 INFO  HomePage :37 - Click on Used Cars Tab: [[FirefoxDriver: firefox on WINDOWS (506573d0-2ded-4013-87ea-02efcfb9af6f)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:320 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (d2dcde42-ef11-41d0-bf17-331d404ed886)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:673 INFO  HomePage :37 - Click on Used Cars Tab: [[FirefoxDriver: firefox on WINDOWS (d2dcde42-ef11-41d0-bf17-331d404ed886)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
+2022-05-20 15:05:331 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (d9a739bb-6733-4941-9c49-bfea25158a45)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:39 INFO  HomePage :29 - Mouse hoover to Buy & Sell Tab: [[FirefoxDriver: firefox on WINDOWS (071a74d4-7d20-4bbf-8dbc-e551faa3c264)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 15:05:630 INFO  HomePage :37 - Click on Used Cars Tab: [[FirefoxDriver: firefox on WINDOWS (071a74d4-7d20-4bbf-8dbc-e551faa3c264)] -> xpath: //div[@class='uhf-child-content']//a[contains(text(),'Used')]]
